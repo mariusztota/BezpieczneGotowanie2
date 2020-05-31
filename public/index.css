@@ -1,0 +1,8 @@
+body {
+  padding-top: 90px;
+}
+@media only screen and (max-width: 679px) {
+  body {
+    padding-top: 60px;
+  }
+}
